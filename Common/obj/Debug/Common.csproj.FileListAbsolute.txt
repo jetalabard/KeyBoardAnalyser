@@ -1,0 +1,5 @@
+C:\Users\jerem\source\repos\KeyBoardAnalyser\Common\bin\Debug\Common.dll
+C:\Users\jerem\source\repos\KeyBoardAnalyser\Common\bin\Debug\Common.pdb
+C:\Users\jerem\source\repos\KeyBoardAnalyser\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\jerem\source\repos\KeyBoardAnalyser\Common\obj\Debug\Common.dll
+C:\Users\jerem\source\repos\KeyBoardAnalyser\Common\obj\Debug\Common.pdb

@@ -1,0 +1,9 @@
+C:\Users\jerem\source\repos\KeyBoardAnalyser\Application\bin\Release\Application.exe.config
+C:\Users\jerem\source\repos\KeyBoardAnalyser\Application\bin\Release\Application.exe
+C:\Users\jerem\source\repos\KeyBoardAnalyser\Application\bin\Release\Application.pdb
+C:\Users\jerem\source\repos\KeyBoardAnalyser\Application\bin\Release\Common.dll
+C:\Users\jerem\source\repos\KeyBoardAnalyser\Application\bin\Release\Common.pdb
+C:\Users\jerem\source\repos\KeyBoardAnalyser\Application\obj\Release\Application.csprojResolveAssemblyReference.cache
+C:\Users\jerem\source\repos\KeyBoardAnalyser\Application\obj\Release\Application.csproj.CoreCompileInputs.cache
+C:\Users\jerem\source\repos\KeyBoardAnalyser\Application\obj\Release\Application.exe
+C:\Users\jerem\source\repos\KeyBoardAnalyser\Application\obj\Release\Application.pdb
